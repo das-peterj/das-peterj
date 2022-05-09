@@ -27,7 +27,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=das-peterj&theme=dracula)](https://git.io/streak-stats)  
 
 <hr>
-  
-[das-peterj](https://github.com/das-peterj)
 
 Last Edited: 2022-05-09
