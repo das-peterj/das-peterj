@@ -6,8 +6,8 @@
 
 - 🎒 I'm about to become a first-year graduate.
 - 💻 I'm graduating as a Java-developer.
-- 💚 I'm currently working on developing my own discord bot, check it out! <a href="https://github.com/das-peterj/dasbot">Dasbot<a>.
-- 📚 I'm currently learning HTML/CSS/JavaScript, Django, Hadoop and Spark.
+- 🤖 I'm currently working on developing my own discord bot, check it out! <a href="https://github.com/das-peterj/dasbot">Dasbot<a>.
+- 📚 I'm currently learning C#, Java and Vue.js.
 - 🔥 Fun fact: I've built all of my own computers and like to modify its components to maximize their performances.
   
 - 🤙 More about me: 
