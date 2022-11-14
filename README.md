@@ -4,9 +4,8 @@
 <br>
 <h1>About me 🙋</h1>
 
-- 🎒 I'm about to become a first-year graduate. (Graduating June 10th 2022 
-- 💻 I'm graduating as a Java-developer.
-- 🤖 I'm currently working on developing my own discord bot, check it out! <a href="https://github.com/das-peterj/dasbot">Dasbot<a>.
+- 💻 I've graduated as a Java-developer.
+- 🤖 I've built my very own discord bot, check it out! <a href="https://github.com/das-peterj/dasbot">Dasbot<a>.
 - 📚 I'm currently learning C#, Java and Vue.js.
 - 🔥 Fun fact: I've built all of my own computers and like to modify its components to maximize their performances.
   
@@ -28,4 +27,4 @@
 
 <hr>
 
-Last Edited: 2022-05-09
+Last Edited: 2022-11-14
